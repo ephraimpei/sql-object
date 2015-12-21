@@ -5,13 +5,6 @@
 SQL Object is an ORM solution that maps SQL queries onto Ruby objects. It aims
 to provide an alternative to ActiveRecord.
 
-## Demo
-
-1. Clone the repo
-2. Head into `irb` or `pry`
-3. `load './demo.rb'`
-4. Create Cat and Human objects and checkout the associations (using [`demo.rb`](./demo.rb) as a reference)
-
 ## Libraries
 
 - SQLite3
